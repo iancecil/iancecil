@@ -21,6 +21,19 @@ I build web applications, integrate AI into practical workflows, and operate sel
 
 Through **Little Genius Tech** and developer communities, I also help people turn technical ideas into working software through hands-on learning.
 
+## My year in 3D
+
+Every tower represents a day of building. Height reflects my GitHub contribution activity.
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="./profile-3d-contrib/profile-green.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="A 3D calendar of Iancecil's GitHub contributions over the past year, with taller towers on more active days" width="100%">
+</picture>
+
+<sub>Refreshed daily · Private contribution details stay private · [View contribution calendar](https://github.com/iancecil#year-list-container)</sub>
+
 ## What I'm building around
 
 - **Products for everyday needs** — web experiences backed by useful APIs and services.
